@@ -1,0 +1,100 @@
+E:\Face\billiard-management-master\bin\Bida.DTO.dll
+E:\Face\billiard-management-master\bin\Bida.DTO.pdb
+E:\Face\billiard-management-master\QLHS.DTO\obj\Debug\Bida.DTO.dll
+E:\Face\billiard-management-master\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\bin\Bida.DTO.dll
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\bin\Bida.DTO.pdb
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\bin\Bida.DTO.dll.config
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\bin\Bida.DTO.dll.config
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\bin\Bida.DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\bin\Bida.DTO.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\bin\Bida.DTO.dll.config
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\bin\Bida.DTO.dll
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\bin\Bida.DTO.pdb
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+D:\New folder\billiard\bin\Bida.DTO.dll.config
+D:\New folder\billiard\bin\Bida.DTO.dll
+D:\New folder\billiard\bin\Bida.DTO.pdb
+D:\New folder\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+D:\New folder\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+D:\New folder\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
+D:\New folder\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+D:\New folder\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+D:\Project\LAB01\BOCUOCDOI\billiard\bin\Bida.DTO.dll.config
+D:\Project\LAB01\BOCUOCDOI\billiard\bin\Bida.DTO.dll
+D:\Project\LAB01\BOCUOCDOI\billiard\bin\Bida.DTO.pdb
+D:\Project\LAB01\BOCUOCDOI\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+D:\Project\LAB01\BOCUOCDOI\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+D:\Project\LAB01\BOCUOCDOI\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
+D:\Project\LAB01\BOCUOCDOI\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+D:\Project\LAB01\BOCUOCDOI\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+D:\Phuc\billiard\bin\Bida.DTO.dll.config
+D:\Phuc\billiard\bin\Bida.DTO.dll
+D:\Phuc\billiard\bin\Bida.DTO.pdb
+D:\Phuc\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+D:\Phuc\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+D:\Phuc\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
+D:\Phuc\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+D:\Phuc\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+C:\Users\thanh\source\repos\LAB06_mini\billiard\bin\Bida.DTO.dll.config
+C:\Users\thanh\source\repos\LAB06_mini\billiard\bin\Bida.DTO.dll
+C:\Users\thanh\source\repos\LAB06_mini\billiard\bin\Bida.DTO.pdb
+C:\Users\thanh\source\repos\LAB06_mini\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\LAB06_mini\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\LAB06_mini\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
+C:\Users\thanh\source\repos\LAB06_mini\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+C:\Users\thanh\source\repos\LAB06_mini\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+D:\Quan\billiard\bin\Bida.DTO.dll.config
+D:\Quan\billiard\bin\Bida.DTO.dll
+D:\Quan\billiard\bin\Bida.DTO.pdb
+D:\Quan\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+D:\Quan\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+D:\Quan\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
+D:\Quan\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+D:\Quan\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\bin\Bida.DTO.dll.config
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\bin\Bida.DTO.dll
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\bin\Bida.DTO.pdb
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+D:\last test\billiard\bin\Bida.DTO.dll.config
+D:\last test\billiard\bin\Bida.DTO.dll
+D:\last test\billiard\bin\Bida.DTO.pdb
+D:\last test\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+D:\last test\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+D:\last test\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
+D:\last test\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+D:\last test\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+D:\Phần mềm Quản lí Bida\billiard\bin\Bida.DTO.dll.config
+D:\Phần mềm Quản lí Bida\billiard\bin\Bida.DTO.dll
+D:\Phần mềm Quản lí Bida\billiard\bin\Bida.DTO.pdb
+D:\Phần mềm Quản lí Bida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+D:\Phần mềm Quản lí Bida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+D:\Phần mềm Quản lí Bida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
+D:\Phần mềm Quản lí Bida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+D:\Phần mềm Quản lí Bida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\bin\Bida.DTO.dll.config
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\bin\Bida.DTO.dll
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\bin\Bida.DTO.pdb
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.AssemblyReference.cache
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.csproj.Up2Date
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.dll
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\QLHS.DTO\obj\Debug\Bida.DTO.pdb

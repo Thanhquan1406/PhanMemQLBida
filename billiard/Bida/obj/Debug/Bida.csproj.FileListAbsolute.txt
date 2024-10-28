@@ -1,0 +1,228 @@
+E:\Face\billiard-management-master\bin\Bida.exe
+E:\Face\billiard-management-master\bin\Bida.pdb
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.csprojResolveAssemblyReference.cache
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmAdd.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmBan.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmBienLai.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmChuyen.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmCreateBan.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmMain.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.frmLogin.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.Properties.Resources.resources
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.csproj.GenerateResource.Cache
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.exe
+E:\Face\billiard-management-master\Bida\obj\Debug\Bida.pdb
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\bin\Bida.exe.config
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\bin\Bida.exe
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\bin\Bida.pdb
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.frmBan.resources
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.frmMain.resources
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.exe
+C:\Users\DIMON\Desktop\QuanLyBida\QuanLyBida\billiard\Bida\obj\Debug\Bida.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\bin\Bida.exe.config
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\bin\Bida.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\bin\Bida.pdb
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.frmBan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.frmMain.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.exe
+C:\Users\ADMIN\OneDrive\Máy tính\Demo\Demo_BIDA\billiard\Bida\obj\Debug\Bida.pdb
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmBan.resources
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmMain.resources
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.exe
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.pdb
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\bin\Bida.exe.config
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\bin\Bida.exe
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\bin\Bida.pdb
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+C:\Users\thanh\Source\Repos\DoAnWindow\billiard\Bida\obj\Debug\Bida.frmOrder.resources
+D:\New folder\billiard\bin\Bida.exe.config
+D:\New folder\billiard\bin\Bida.exe
+D:\New folder\billiard\bin\Bida.pdb
+D:\New folder\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+D:\New folder\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+D:\New folder\billiard\Bida\obj\Debug\Bida.frmBan.resources
+D:\New folder\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+D:\New folder\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+D:\New folder\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+D:\New folder\billiard\Bida\obj\Debug\Bida.frmMain.resources
+D:\New folder\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+D:\New folder\billiard\Bida\obj\Debug\Bida.frmOrder.resources
+D:\New folder\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+D:\New folder\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+D:\New folder\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+D:\New folder\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+D:\New folder\billiard\Bida\obj\Debug\Bida.exe
+D:\New folder\billiard\Bida\obj\Debug\Bida.pdb
+D:\Project\LAB01\BOCUOCDOI\billiard\bin\Bida.exe.config
+D:\Project\LAB01\BOCUOCDOI\billiard\bin\Bida.exe
+D:\Project\LAB01\BOCUOCDOI\billiard\bin\Bida.pdb
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.frmBan.resources
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.frmMain.resources
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.frmOrder.resources
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.exe
+D:\Project\LAB01\BOCUOCDOI\billiard\Bida\obj\Debug\Bida.pdb
+D:\Phuc\billiard\bin\Bida.exe.config
+D:\Phuc\billiard\bin\Bida.exe
+D:\Phuc\billiard\bin\Bida.pdb
+D:\Phuc\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+D:\Phuc\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+D:\Phuc\billiard\Bida\obj\Debug\Bida.frmBan.resources
+D:\Phuc\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+D:\Phuc\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+D:\Phuc\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+D:\Phuc\billiard\Bida\obj\Debug\Bida.frmMain.resources
+D:\Phuc\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+D:\Phuc\billiard\Bida\obj\Debug\Bida.frmOrder.resources
+D:\Phuc\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+D:\Phuc\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+D:\Phuc\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+D:\Phuc\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+D:\Phuc\billiard\Bida\obj\Debug\Bida.exe
+D:\Phuc\billiard\Bida\obj\Debug\Bida.pdb
+C:\Users\thanh\source\repos\LAB06_mini\billiard\bin\Bida.exe.config
+C:\Users\thanh\source\repos\LAB06_mini\billiard\bin\Bida.exe
+C:\Users\thanh\source\repos\LAB06_mini\billiard\bin\Bida.pdb
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.frmBan.resources
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.frmMain.resources
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.frmOrder.resources
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.exe
+C:\Users\thanh\source\repos\LAB06_mini\billiard\Bida\obj\Debug\Bida.pdb
+D:\Quan\billiard\bin\Bida.exe.config
+D:\Quan\billiard\bin\Bida.exe
+D:\Quan\billiard\bin\Bida.pdb
+D:\Quan\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+D:\Quan\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+D:\Quan\billiard\Bida\obj\Debug\Bida.frmBan.resources
+D:\Quan\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+D:\Quan\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+D:\Quan\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+D:\Quan\billiard\Bida\obj\Debug\Bida.frmMain.resources
+D:\Quan\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+D:\Quan\billiard\Bida\obj\Debug\Bida.frmOrder.resources
+D:\Quan\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+D:\Quan\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+D:\Quan\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+D:\Quan\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+D:\Quan\billiard\Bida\obj\Debug\Bida.exe
+D:\Quan\billiard\Bida\obj\Debug\Bida.pdb
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\bin\Bida.exe.config
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\bin\Bida.exe
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\bin\Bida.pdb
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.frmBan.resources
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.frmMain.resources
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.frmOrder.resources
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.exe
+C:\Users\thanh\Source\Repos\QU-NDONE\billiard\Bida\obj\Debug\Bida.pdb
+D:\last test\billiard\bin\Bida.exe.config
+D:\last test\billiard\bin\Bida.exe
+D:\last test\billiard\bin\Bida.pdb
+D:\last test\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+D:\last test\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+D:\last test\billiard\Bida\obj\Debug\Bida.frmBan.resources
+D:\last test\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+D:\last test\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+D:\last test\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+D:\last test\billiard\Bida\obj\Debug\Bida.frmMain.resources
+D:\last test\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+D:\last test\billiard\Bida\obj\Debug\Bida.frmOrder.resources
+D:\last test\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+D:\last test\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+D:\last test\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+D:\last test\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+D:\last test\billiard\Bida\obj\Debug\Bida.exe
+D:\last test\billiard\Bida\obj\Debug\Bida.pdb
+D:\Phần mềm Quản lí Bida\billiard\bin\Bida.exe.config
+D:\Phần mềm Quản lí Bida\billiard\bin\Bida.exe
+D:\Phần mềm Quản lí Bida\billiard\bin\Bida.pdb
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmBan.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmMain.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.frmOrder.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.exe
+D:\Phần mềm Quản lí Bida\billiard\Bida\obj\Debug\Bida.pdb
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\bin\Bida.exe
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\bin\Bida.pdb
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.csproj.AssemblyReference.cache
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.frmAdd.resources
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.frmBan.resources
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.frmBienLai.resources
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.frmChuyen.resources
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.frmCreateBan.resources
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.frmMain.resources
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.frmLogin.resources
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.frmOrder.resources
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.Properties.Resources.resources
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.csproj.GenerateResource.cache
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.csproj.CoreCompileInputs.cache
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.csproj.Up2Date
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.exe
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\Bida\obj\Debug\Bida.pdb
+C:\Users\thanh\Source\Repos\PhanmemQLBida\billiard\bin\Bida.exe.config

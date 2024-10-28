@@ -1,0 +1,259 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|c:\\users\\thanh\\source\\repos\\phanmemqlbida\\billiard\\bida\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}|Bida.BUS\\Bida.BUS.csproj|c:\\users\\thanh\\source\\repos\\phanmemqlbida\\billiard\\bida.bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EA57015B-2AFE-4CB8-A999-085C4D38DE0D}|Bida.BUS\\Bida.BUS.csproj|solutionrelative:bida.bus\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|c:\\users\\thanh\\source\\repos\\phanmemqlbida\\billiard\\bida.dao\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|solutionrelative:bida.dao\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|c:\\users\\thanh\\source\\repos\\phanmemqlbida\\billiard\\qlhs.dto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|solutionrelative:qlhs.dto\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|c:\\users\\thanh\\source\\repos\\phanmemqlbida\\billiard\\qlhs.dto\\bienlai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|solutionrelative:qlhs.dto\\bienlai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|c:\\users\\thanh\\source\\repos\\phanmemqlbida\\billiard\\bida\\frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|c:\\users\\thanh\\source\\repos\\phanmemqlbida\\billiard\\bida\\frmcreateban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37555543-54F5-44CF-951C-AA9E262C99B8}|Bida\\Bida.csproj|solutionrelative:bida\\frmcreateban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|c:\\users\\thanh\\source\\repos\\phanmemqlbida\\billiard\\qlhs.dto\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|solutionrelative:qlhs.dto\\khachhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|c:\\users\\thanh\\source\\repos\\phanmemqlbida\\billiard\\qlhs.dto\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|solutionrelative:qlhs.dto\\ban.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|c:\\users\\thanh\\source\\repos\\phanmemqlbida\\billiard\\bida.dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|solutionrelative:bida.dao\\khachhangdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|c:\\users\\thanh\\source\\repos\\phanmemqlbida\\billiard\\bida.dao\\bandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|solutionrelative:bida.dao\\bandao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|c:\\users\\thanh\\source\\repos\\phanmemqlbida\\billiard\\qlhs.dto\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB796D-1D9F-488F-9677-71C774CEEAD8}|QLHS.DTO\\Bida.DTO.csproj|solutionrelative:qlhs.dto\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|c:\\users\\thanh\\source\\repos\\phanmemqlbida\\billiard\\bida.dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85F2BBA3-21D9-4D77-9EDD-F7DEDCAA6B5B}|Bida.DAO\\Bida.DAO.csproj|solutionrelative:bida.dao\\dataprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 319,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida\\App.config",
+              "RelativeDocumentMoniker": "Bida\\App.config",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida\\App.config",
+              "RelativeToolTip": "Bida\\App.config",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T18:41:06.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmCreateBan.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida\\frmCreateBan.cs",
+              "RelativeDocumentMoniker": "Bida\\frmCreateBan.cs",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida\\frmCreateBan.cs",
+              "RelativeToolTip": "Bida\\frmCreateBan.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAawEEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:37:39.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBan.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida\\frmBan.cs",
+              "RelativeDocumentMoniker": "Bida\\frmBan.cs",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida\\frmBan.cs",
+              "RelativeToolTip": "Bida\\frmBan.cs",
+              "ViewState": "AgIAAPsAAAAAAAAAAAAawA8BAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:37:36.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BIENLAI.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\QLHS.DTO\\BIENLAI.cs",
+              "RelativeDocumentMoniker": "QLHS.DTO\\BIENLAI.cs",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\QLHS.DTO\\BIENLAI.cs",
+              "RelativeToolTip": "QLHS.DTO\\BIENLAI.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAA2wDcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:37:23.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "KHACHHANG.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\QLHS.DTO\\KHACHHANG.cs",
+              "RelativeDocumentMoniker": "QLHS.DTO\\KHACHHANG.cs",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\QLHS.DTO\\KHACHHANG.cs",
+              "RelativeToolTip": "QLHS.DTO\\KHACHHANG.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:37:09.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BAN.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\QLHS.DTO\\BAN.cs",
+              "RelativeDocumentMoniker": "QLHS.DTO\\BAN.cs",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\QLHS.DTO\\BAN.cs",
+              "RelativeToolTip": "QLHS.DTO\\BAN.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwDAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:37:02.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KhachHangDAO.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida.DAO\\KhachHangDAO.cs",
+              "RelativeDocumentMoniker": "Bida.DAO\\KhachHangDAO.cs",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida.DAO\\KhachHangDAO.cs",
+              "RelativeToolTip": "Bida.DAO\\KhachHangDAO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wB0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:36:53.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BanDAO.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida.DAO\\BanDAO.cs",
+              "RelativeDocumentMoniker": "Bida.DAO\\BanDAO.cs",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida.DAO\\BanDAO.cs",
+              "RelativeToolTip": "Bida.DAO\\BanDAO.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAmwCQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:36:49.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\QLHS.DTO\\Model.cs",
+              "RelativeDocumentMoniker": "QLHS.DTO\\Model.cs",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\QLHS.DTO\\Model.cs",
+              "RelativeToolTip": "QLHS.DTO\\Model.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA/wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:36:16.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida.BUS\\App.config",
+              "RelativeDocumentMoniker": "Bida.BUS\\App.config",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida.BUS\\App.config",
+              "RelativeToolTip": "Bida.BUS\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T18:13:03.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida.DAO\\app.config",
+              "RelativeDocumentMoniker": "Bida.DAO\\app.config",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida.DAO\\app.config",
+              "RelativeToolTip": "Bida.DAO\\app.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T18:13:00.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\QLHS.DTO\\App.config",
+              "RelativeDocumentMoniker": "QLHS.DTO\\App.config",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\QLHS.DTO\\App.config",
+              "RelativeToolTip": "QLHS.DTO\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-28T18:12:57.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataProvider.cs",
+              "DocumentMoniker": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida.DAO\\DataProvider.cs",
+              "RelativeDocumentMoniker": "Bida.DAO\\DataProvider.cs",
+              "ToolTip": "C:\\Users\\thanh\\source\\repos\\PhanmemQLBida\\billiard\\Bida.DAO\\DataProvider.cs",
+              "RelativeToolTip": "Bida.DAO\\DataProvider.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T18:11:12.788Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
